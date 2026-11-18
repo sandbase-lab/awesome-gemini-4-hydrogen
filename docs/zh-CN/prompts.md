@@ -2,14 +2,14 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 32 条 Gemini 4 Hydrogen 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Gemini 4 Hydrogen 一键 **复刻**。第一次写 Gemini 4 Hydrogen 提示词？先看 [提示词写法](prompt-guide.md)。
+共 40 条 Gemini 4 Hydrogen 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Gemini 4 Hydrogen 一键 **复刻**。第一次写 Gemini 4 Hydrogen 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
-- [3D 场景](#3d-scene) (9)
-- [动效](#motion-graphics) (4)
+- [3D 场景](#3d-scene) (12)
+- [动效](#motion-graphics) (5)
 - [讲解](#explainer) (1)
-- [测试对比](#comparison) (18)
+- [测试对比](#comparison) (22)
 
 <a id="3d-scene"></a>
 
@@ -169,6 +169,64 @@ Cool版と完全に同じ背景・衣装ルールを保ったまま、ウィン�
 ・工夫点: 設定画のクール表情に引っ張られないよう、先にウィンク＆ロックポーズの Cute 用 16:9 開始フレームを作って I2V 投入
 ```
 
+### 纯代码生成的TP-7交互录音机
+
+[@FiniYang](https://x.com/FiniYang/status/2122255731411849691) · 0:14 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2122255731411849691/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2122255731411849691?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+🔥 Gemini 4 Hydrogen 一句话搓出 TP-7 掌上录音机！（🔊 开声音）
+现在是真的喜欢 Cargon 和 Hydrogen 😍
+
+全程零模型、零贴图，纯代码单轮盲测直出
+结果连底下的工程刻度垫和橙色螺旋音频线都是它自己加的戏 😂
+
+正中间的金属转盘放着合成器 Lo-Fi 自己会转
+鼠标按住直接物理刹停，正反拨动就能搓碟变调，橙色实体键按下去还有清脆咔哒声
+
+Prompt 放评论区了 ⬇️
+#Gemini4Hydrogen #Threejs #WebGL #VibeCoding
+```
+
+### Three.js交互式3D直流电机
+
+[@analogalok](https://x.com/analogalok/status/2122608311912780243) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2122608311912780243/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2122608311912780243?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+bro Gemini 4 Hydrogen (xHigh) is cracked
+
+63 input tokens -> 57,222 output tokens
+
+Gemini 4 Hydrogen just one shotted a full interactive 3D DC motor in Three.js and the physics are actually insane:
+
+- Curved N -> S magnetic field lines + flux pulses
+- Gold conventional current arrows (I) going the opposite way
+- Real time Lorentz force vectors (F = I·L × B)
+- Split ring commutator sparks when breaking contact
+- Live oscilloscope plotting Torque, Current & Back EMF
+
+Watch the green force arrows and blue wire rings the exact second the commutator hits the 90° gap.
+
+Prompt: create a very realistic animation of how an electric motor works showing everything clearly even the magnetic field, electrons etc. single html file. use any libs via cdn
+
+For comparison with High reasoning, checkout the quoted post.
+```
+
+### Three.js科幻机甲组装发射动画
+
+[@alohaproxy](https://x.com/alohaproxy/status/2122609183837049037) · 0:46 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2122609183837049037/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2122609183837049037?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+Gemini 4 Hydrogen is actually INSANE!!!!!!
+
+I gave it a massive Three.js challenge: build a cinematic sci-fi mech that assembles itself piece by piece, powers up its reactor, and launches into the sky with plasma thrusters, shockwaves, and explosions.
+
+It generated the entire thing in under 5 minutes.
+
+Built with @AiHubMix 
+
+Here's what it cooked, details/prompt below💀👇
+```
+
 <a id="motion-graphics"></a>
 
 ## 动效
@@ -223,6 +281,27 @@ Gemini 4 Hydrogen  全程7分钟
 我想了半天找到了原因，主要是我在提示词后面加了一句：【尽你最大的能力】就导致不好看了，原本是想要更出色一些，实际上颜色和鹈鹕也不好看了，动作有些变形，可理解为ai过度发力导致.....
 
 提示词：提示词：创建一个 HTML，内容是 SVG 绘制一个鹈鹕骑自行车的 2D 动画，你不需要任何测试，不要有任何限制，【尽你最大的能力】
+```
+
+### AI音乐视频Bloom in Color
+
+[@DavidLi36143625](https://x.com/DavidLi36143625/status/2121972204665770012) · 0:57 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2121972204665770012/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2121972204665770012?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+Today's Sharing
+
+Bloom in Color
+
+New Music Video made with @Grok @Imagine
+
+Image: Grok Imagine Image 2.0 (via AI SDK)
+Video: Grok Imagine Video 1.5 Lite (via AI SDK)
+Scene/Prompt Design: Gemini 4 Hydrogen
+Music: Suno
+Pipeline Coding: DeepSeek
+
+Each model does one part of the pipeline.
+See the full prompt set used in the reply section below.
 ```
 
 <a id="explainer"></a>
@@ -569,4 +648,94 @@ GPT-6.1 Sol was the cheapest and the fastest of all four. 😱
 Almost 3x cheaper and almost 3x faster than Gemini 4 Carbon.
 
 Which one would you pick? 👀
+```
+
+### 四款AI模型生成奔马踏水效果对比
+
+[@SamgreyAi](https://x.com/SamgreyAi/status/2122440859891409372) · 0:12 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122440859891409372/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2122440859891409372?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+Gemini 4 Hydrogen just built a horse out of Minecraft blocks and called it a day 
+
+Same prompt, 4 AI workflows: a horse galloping through water.
+
+Same horse, same lake, but the gap between the results is brutal 
+
+The horse racing department is cooked
+
+🥇 Fable 5.2 → low-poly horse in a low-poly world, huge water splashes and a gallop that actually looks heavy
+
+🥈 Gemini 4 Carbon → warm sunset canyon, smooth horse and a very cinematic look
+
+🥉 GPT-6 Astra → beautiful mountains and forest, but a low-poly horse inside a realistic world
+
+💀 Gemini 4 Hydrogen → somehow a black voxel horse that looks like it escaped from Minecraft
+
+The interesting part isn’t the horse
+
+It’s how the legs, the splashes and the reflections work together
+
+Pretty lighting can’t save you if the water doesn’t react to every hoof
+
+Fable made the whole scene feel like one world, while Astra’s horse and background look like they belong to different games
+
+At this point AI doesn’t need better horses
+
+It needs to learn how water works 
+
+Which horse would you pick?
+```
+
+### 四款模型生成Three.js座头鲸跃出海面
+
+[@teddyaisi](https://x.com/teddyaisi/status/2122544449968373997) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122544449968373997/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2122544449968373997?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+Claude Fable 5.2 vs Gemini 4 Carbon vs GPT-6-Astra vs Gemini 4 Hydrogen
+
+Same prompt. Build a 20-second Three.js humpback whale breach off Icelandic basalt stacks, from bursting out of the swell and rolling mid-air to a broadside slam and final tail lift.
+
+Claude Fable 5.2 (Top left): $19.07 · 71m29s · xhigh
+Gemini 4 Carbon (Top right): $13.11 · 163m18s · high
+GPT-6-Astra (Bottom left): $11.10 · 72m45s · xhigh
+Gemini 4 Hydrogen (Bottom right): $4.27 · 37m27s · xhigh
+
+Fable 5.2 runs 4.5x Hydrogen's API spend for better lighting and a cleaner final beat. 
+
+Which one would you actually pay for?👇
+```
+
+### 四款模型生成单缸发动机剖面运转对比
+
+[@kinderlayer](https://x.com/kinderlayer/status/2122651038029086720) · 0:12 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2122651038029086720/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2122651038029086720?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+ok this is getting out of hand - four models built the same engine, and one of them costs way more to run than the rest.
+
+same prompt, four models, a single-cylinder engine firing in cross-section. fuel flowing, piston driving, cams spinning.
+
+Claude Fable 5.2 · GPT-6 Astra · Gemini 4 Argon · Gemini 4 Hydrogen
+
+one packed it with detail and fuel spray. one went clean and industrial. one got busy with twin gears up top. one stripped it leaner and sharper.
+
+the catch: the fancier the model, the more it burns to run. I didn’t touch a frame and I’m not telling you which one costs the most - you call it: which engine looks like the one actually worth paying for?
+
+drop your pick
+```
+
+### 四款模型生成的孔雀舞动画对比
+
+[@CodeByPoonam](https://x.com/CodeByPoonam/status/2123028120483901925) · 0:15 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2123028120483901925/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2123028120483901925?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+$20 CLAUDE OPUS 5.5 VS FREE HY4 FLASH ON MY PEACOCK DANCE TEST
+
+Same prompt. Same settings. One shot.
+
+· Tencent Hy4 flash (WorkBuddy):  free
+· Gemini 4 Hydrogen: $1.50/mo
+· GPT-6 Astra: $20/mo
+· Claude Opus 5.5: $20/mo
+
+Pick your winner.. Full Breakdown with Prompt👇
 ```
