@@ -3099,6 +3099,24 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2122694324332765681"
  },
  {
+  "id": "2122725218561200410",
+  "title": "Spirited Away-style sea train scene in Blender",
+  "title_zh": "Blender千与千寻风格海上火车场景",
+  "category": "3d-scene",
+  "author": {
+   "handle": "paojiaofty",
+   "name": "Patrick Tian（泡椒肥汤圆）"
+  },
+  "postUrl": "https://x.com/paojiaofty/status/2122725218561200410",
+  "createdAt": "2026-11-17T16:15:05.000Z",
+  "durationMs": 15000,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2122725218561200410/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2122725218561200410/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2122725218561200410"
+ },
+ {
   "id": "2122743416916521437",
   "title": "East Asian pagoda bridge gate in Three.js",
   "title_zh": "Three.js东亚宝塔桥门场景",
