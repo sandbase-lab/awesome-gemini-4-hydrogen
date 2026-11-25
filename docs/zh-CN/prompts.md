@@ -2,14 +2,14 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 40 条 Gemini 4 Hydrogen 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Gemini 4 Hydrogen 一键 **复刻**。第一次写 Gemini 4 Hydrogen 提示词？先看 [提示词写法](prompt-guide.md)。
+共 45 条 Gemini 4 Hydrogen 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Gemini 4 Hydrogen 一键 **复刻**。第一次写 Gemini 4 Hydrogen 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (12)
 - [动效](#motion-graphics) (5)
 - [讲解](#explainer) (1)
-- [测试对比](#comparison) (22)
+- [测试对比](#comparison) (27)
 
 <a id="3d-scene"></a>
 
@@ -189,7 +189,7 @@ Prompt 放评论区了 ⬇️
 
 ### Three.js交互式3D直流电机
 
-[@analogalok](https://x.com/analogalok/status/2122608311912780243) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2122608311912780243/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2122608311912780243?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+[@analogalok](https://x.com/analogalok/status/2122608311912780243) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2122608311912780243/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2122608311912780243?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
 
 ```text
 bro Gemini 4 Hydrogen (xHigh) is cracked
@@ -213,7 +213,7 @@ For comparison with High reasoning, checkout the quoted post.
 
 ### Three.js科幻机甲组装发射动画
 
-[@alohaproxy](https://x.com/alohaproxy/status/2122609183837049037) · 0:46 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2122609183837049037/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2122609183837049037?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+[@alohaproxy](https://x.com/alohaproxy/status/2122609183837049037) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2122609183837049037/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2122609183837049037?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
 
 ```text
 Gemini 4 Hydrogen is actually INSANE!!!!!!
@@ -323,18 +323,6 @@ See the full prompt set used in the reply section below.
 <a id="comparison"></a>
 
 ## 测试对比
-
-### 始皇骑北极熊SVG动画生成对比
-
-[@leo114119](https://x.com/leo114119/status/2120956167719641182) · 0:21 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2120956167719641182/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2120956167719641182?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
-
-```text
-Gemini 4 Hydrogen SVG 动画生成测试：始皇骑北极熊：
-
-vs gemini 3.8 flash 
-
-可以说差距非常明显了，提升巨大了。。
-```
 
 ### 吉卜力风格双人骑行 SVG 生成对比
 
@@ -688,7 +676,7 @@ Which horse would you pick?
 
 ### 四款模型生成Three.js座头鲸跃出海面
 
-[@teddyaisi](https://x.com/teddyaisi/status/2122544449968373997) · 0:20 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122544449968373997/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2122544449968373997?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+[@teddyaisi](https://x.com/teddyaisi/status/2122544449968373997) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2122544449968373997/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2122544449968373997?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
 
 ```text
 Claude Fable 5.2 vs Gemini 4 Carbon vs GPT-6-Astra vs Gemini 4 Hydrogen
@@ -723,6 +711,26 @@ the catch: the fancier the model, the more it burns to run. I didn’t touch a f
 drop your pick
 ```
 
+### 大鹏展翅Three.js三维动画生成对比
+
+[@vincent_ddup](https://x.com/vincent_ddup/status/2122941884192407650) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2122941884192407650/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2122941884192407650?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+同一个模型为什么差异会这么大？GPT 6.2 到底是什么样的一种存在？
+
+早上做了一版鹕骑自行车海滨浴场版本。
+我有一个非常详细的提示词，给到 6.2 Sol 做了一版之后，再稍微调整了一版细节，两版出来的效果就在上一篇帖子发布的录屏。
+我觉得非常的惊艳！！！
+
+但是刚刚我用一个同样的很简洁的提示词，让它做一个大鹏展翅的 3D 动画，结果就做成这个样子。
+1. 第一版本是用 GPT 6.2 Astra 做的。
+2. 第二个版本是用 Gemini 4 Hydrogen 做的。
+
+提示词如下：
+
+给我用 three.js 设计一个大鹏展翅的 3D 动画。并适配手机版本。
+```
+
 ### 四款模型生成的孔雀舞动画对比
 
 [@CodeByPoonam](https://x.com/CodeByPoonam/status/2123028120483901925) · 0:15 · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2123028120483901925/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2123028120483901925?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
@@ -738,4 +746,98 @@ Same prompt. Same settings. One shot.
 · Claude Opus 5.5: $20/mo
 
 Pick your winner.. Full Breakdown with Prompt👇
+```
+
+### 三款模型生成电动机原理动画对比
+
+[@isagi1000x](https://x.com/isagi1000x/status/2123166994426220812) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2123166994426220812/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2123166994426220812?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+Qwen 4 Max vs Qwen 3.8 Max vs Gemini 4 Hydrogen. 
+
+I gave all three models the exact same prompt:
+
+Prompt:
+"Create a very realistic animation showing how an electric motor works. Clearly visualize everything, including magnetic fields, electrons, and the internal components. Deliver it as a single HTML file using any libraries via CDN."
+
+Here's how they compared:
+
+ Gemini 4 Hydrogen — Best Overall
+
+It delivered the strongest combination of 3D realism and visual clarity. A properly curved horseshoe magnet, detailed commutator, and phase-by-phase physics explanations, all without overwhelming the scene with visual clutter.
+
+ Qwen 4 Max — Best Interactive Dashboard
+
+It went all out on the lab experience, adding a physical DC battery, live waveform graph, and friction controls. However, the glowing overlays made the center of the animation feel a little crowded.
+
+ Qwen 3.8 Max — Best Learning Companion
+
+It had the simplest 3D environment, but made up for it with a helpful synchronized 2D schematic that made understanding the motor's operation easier.
+
+My verdict:
+
+- Best 3D realism and clarity: Gemini 4 Hydrogen.
+- Richest interactive experience: Qwen 4 Max.
+- Best supporting educational view: Qwen 3.8 Max.
+
+Three models. One prompt. Three very different approaches to explaining the same physics.
+
+Which result would you pick?
+```
+
+### 三款模型生成 Three.js 海滩城市对比
+
+[@srikanthvaluri](https://x.com/srikanthvaluri/status/2124132383456997820) · [观看](https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2124132383456997820/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2124132383456997820?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+Same prompt. 3 models. A beach city in Three.js 
+
+Gemini 4 Hydrogen: tall skyline and a full beach with umbrellas
+GPT-6.2 Sol: the biggest city, with a huge grid of roads
+ GPT-6.1 Astra: most realistic, with palm roads, boats and a rooftop pool
+
+My pick: Astra for the details. Hydrogen is a Flash model and still made a full skyline.
+```
+
+### 极光下雪村网页生成效果对比
+
+[@aapakari](https://x.com/aapakari/status/2124820503236051363) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2124820503236051363/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2124820503236051363?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+One prompt, two models: "a snowy village under the northern lights", as one web page.
+
+Gemini 4 Hydrogen (high): 1 min 24 s, $0.17
+Iceman (default setting): 3 min 18 s, no public price yet
+
+Iceman is the model on OpenCode that no lab has claimed yet.
+
+Which one would you ship?
+```
+
+### 港口摩天轮动画性能表现对比
+
+[@aapakari](https://x.com/aapakari/status/2125196960399303126) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125196960399303126/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2125196960399303126?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+One prompt: animate a harbor Ferris wheel at night with fireworks and reflections.
+
+Gemini 4 Hydrogen (Antigravity, high) · 1m 29s · $0.17
+NEW HungerG stealth model (OpenCode, default) · 2m 25s · currently free
+
+Hydrogen ran 1.6x faster with brighter reflections; HungerG used 6.5x more reasoning tokens. Which wins?
+```
+
+### 两款模型生成太阳系网页效果对比
+
+[@aapakari](https://x.com/aapakari/status/2125314175467491405) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125314175467491405/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2125314175467491405?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+One prompt, two models: "a small solar system with moons, an asteroid belt and a comet", as one web page.
+
+Gemini 4 Hydrogen (high): 1 min 17 s, $0.15
+Hy4 Flash (default setting): 53 s, $0.004
+
+Hydrogen cost 35x the price of Hy4 Flash for the same prompt.
+
+Which one would you ship?
 ```
