@@ -2,14 +2,15 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 45 条 Gemini 4 Hydrogen 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Gemini 4 Hydrogen 一键 **复刻**。第一次写 Gemini 4 Hydrogen 提示词？先看 [提示词写法](prompt-guide.md)。
+共 48 条 Gemini 4 Hydrogen 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Gemini 4 Hydrogen 一键 **复刻**。第一次写 Gemini 4 Hydrogen 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
 - [3D 场景](#3d-scene) (12)
 - [动效](#motion-graphics) (5)
+- [产品界面](#ui-demo) (1)
 - [讲解](#explainer) (1)
-- [测试对比](#comparison) (27)
+- [测试对比](#comparison) (29)
 
 <a id="3d-scene"></a>
 
@@ -302,6 +303,26 @@ Pipeline Coding: DeepSeek
 
 Each model does one part of the pipeline.
 See the full prompt set used in the reply section below.
+```
+
+<a id="ui-demo"></a>
+
+## 产品界面
+
+### 使用React生成的健身应用落地页
+
+[@J70427237](https://x.com/J70427237/status/2125547117490102599) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125547117490102599/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2125547117490102599?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+I generated a landing page for a gym app using Antigravity with its default Gemini 4 Hydrogen model.
+
+Here's the prompt I used:
+
+"Build a landing page for a gym app with React Expo Go."
+
+Here's what I got.
+
+Honestly, I think it looks a little bloated. What do you guys think?
 ```
 
 <a id="explainer"></a>
@@ -799,6 +820,21 @@ GPT-6.2 Sol: the biggest city, with a huge grid of roads
 My pick: Astra for the details. Hydrogen is a Flash model and still made a full skyline.
 ```
 
+### 雨夜城市街道网页生成效果对比
+
+[@aapakari](https://x.com/aapakari/status/2124623671562273248) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2124623671562273248/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2124623671562273248?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+One prompt, two models: "a rainy city street at night", as one web page.
+
+Gemini 4 Hydrogen (high): 1 min 48 s, $0.20
+Grok 4.7 (high): 20 min 14 s, $0.72
+
+Hydrogen was 11x faster at under a third of the price.
+
+Which one would you ship?
+```
+
 ### 极光下雪村网页生成效果对比
 
 [@aapakari](https://x.com/aapakari/status/2124820503236051363) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2124820503236051363/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2124820503236051363?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
@@ -827,17 +863,41 @@ NEW HungerG stealth model (OpenCode, default) · 2m 25s · currently free
 Hydrogen ran 1.6x faster with brighter reflections; HungerG used 6.5x more reasoning tokens. Which wins?
 ```
 
-### 两款模型生成太阳系网页效果对比
+### 鱼群穿梭的珊瑚礁网页生成对比
 
-[@aapakari](https://x.com/aapakari/status/2125314175467491405) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125314175467491405/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2125314175467491405?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+[@aapakari](https://x.com/aapakari/status/2125560102988186051) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125560102988186051/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2125560102988186051?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
 
 ```text
-One prompt, two models: "a small solar system with moons, an asteroid belt and a comet", as one web page.
+One prompt, two models: "a coral reef with schools of fish", as one web page.
 
-Gemini 4 Hydrogen (high): 1 min 17 s, $0.15
-Hy4 Flash (default setting): 53 s, $0.004
+Gemini 4 Hydrogen (high): 1 min 20 s, $0.17
+LongCat 2.5 (default setting): 5 min 43 s, $0.036
 
-Hydrogen cost 35x the price of Hy4 Flash for the same prompt.
+Hydrogen finished 4 minutes sooner for 13 cents more.
 
 Which one would you ship?
+```
+
+### 暴风雨中旋转灯塔的SVG动画对比
+
+[@sergeo_n](https://x.com/sergeo_n/status/2125606026011365475) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125606026011365475/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2125606026011365475?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+Gemini 4 Hydrogen vs Gemini 4 Neon
+
+Same prompt, pure code, no video generation
+
+An animated SVG of a lighthouse in a storm, waves moving, light rotating.
+
+Top: Hydrogen
+Bottom: Neon
+
+> Both took 10 minutes.
+> Hydrogen cost $1.57 to run.
+> Neon cost $1.64 to run.
+
+7 cents and zero minutes between them.
+So the only difference is on screen.
+
+Watch both loops and tell me: where did Neon's extra 7 cents go, because I cannot see it.
 ```
