@@ -3754,5 +3754,77 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125606026011365475/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2125606026011365475"
+ },
+ {
+  "id": "2125618568511557979",
+  "title": "Paper animation created with Gemini Hydrogen",
+  "title_zh": "使用Gemini Hydrogen制作的纸艺动画",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "prayag_sonar",
+   "name": "prayag sonar"
+  },
+  "postUrl": "https://x.com/prayag_sonar/status/2125618568511557979",
+  "createdAt": "2026-11-25T15:52:13.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125618568511557979/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125618568511557979/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2125618568511557979"
+ },
+ {
+  "id": "2125691480731750654",
+  "title": "A video reel created with Gemini Hydrogen",
+  "title_zh": "使用Gemini Hydrogen生成的视频短片",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "garciarsdiego",
+   "name": "Diego Garcia"
+  },
+  "postUrl": "https://x.com/garciarsdiego/status/2125691480731750654",
+  "createdAt": "2026-11-25T20:41:57.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125691480731750654/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125691480731750654/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2125691480731750654"
+ },
+ {
+  "id": "2125742982548554053",
+  "title": "Social media content created with Three.js",
+  "title_zh": "使用Three.js制作的社交媒体内容",
+  "category": "3d-scene",
+  "author": {
+   "handle": "GuiKrypto",
+   "name": "Gui"
+  },
+  "postUrl": "https://x.com/GuiKrypto/status/2125742982548554053",
+  "createdAt": "2026-11-26T00:06:36.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125742982548554053/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125742982548554053/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2125742982548554053"
+ },
+ {
+  "id": "2125798153748426836",
+  "title": "Documentary about the OpenAI leadership crisis",
+  "title_zh": "关于OpenAI领导层危机的纪录短片",
+  "category": "explainer",
+  "author": {
+   "handle": "XiaoKooeye",
+   "name": "Xiao Yang"
+  },
+  "postUrl": "https://x.com/XiaoKooeye/status/2125798153748426836",
+  "createdAt": "2026-11-26T03:45:49.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125798153748426836/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125798153748426836/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2125798153748426836"
  }
 ]
