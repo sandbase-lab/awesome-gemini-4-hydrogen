@@ -2,12 +2,12 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-48 Gemini 4 Hydrogen videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Gemini 4 Hydrogen on SandBase Lab. New to prompting Gemini 4 Hydrogen? Start with the [prompt guide](prompt-guide.md).
+49 Gemini 4 Hydrogen videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Gemini 4 Hydrogen on SandBase Lab. New to prompting Gemini 4 Hydrogen? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
 - [3D scenes](#3d-scene) (12)
-- [Motion graphics](#motion-graphics) (5)
+- [Motion graphics](#motion-graphics) (6)
 - [Product UI](#ui-demo) (1)
 - [Explainers](#explainer) (1)
 - [Tests & comparisons](#comparison) (29)
@@ -302,6 +302,24 @@ Music: Suno
 Pipeline Coding: DeepSeek
 
 Each model does one part of the pipeline.
+See the full prompt set used in the reply section below.
+```
+
+### Little Ember Wings AI music video
+
+[@DavidLi36143625](https://x.com/DavidLi36143625/status/2125918679196107086) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125918679196107086/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2125918679196107086?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+Today's Sharing
+
+Little Ember Wings
+
+New Music Video made with @Grok @Imagine
+
+Story/Prompt Design: Gemini 4 Hydrogen
+Image/Video: Grok Imagine (Agent Mode)
+Music: Suno
+
 See the full prompt set used in the reply section below.
 ```
 
@@ -806,20 +824,6 @@ Three models. One prompt. Three very different approaches to explaining the same
 Which result would you pick?
 ```
 
-### Three.js beach city comparison across three models
-
-[@srikanthvaluri](https://x.com/srikanthvaluri/status/2124132383456997820) · [Watch](https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2124132383456997820/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2124132383456997820?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
-
-```text
-Same prompt. 3 models. A beach city in Three.js 
-
-Gemini 4 Hydrogen: tall skyline and a full beach with umbrellas
-GPT-6.2 Sol: the biggest city, with a huge grid of roads
- GPT-6.1 Astra: most realistic, with palm roads, boats and a rooftop pool
-
-My pick: Astra for the details. Hydrogen is a Flash model and still made a full skyline.
-```
-
 ### A rainy city street web page comparison
 
 [@aapakari](https://x.com/aapakari/status/2124623671562273248) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2124623671562273248/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2124623671562273248?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
@@ -831,21 +835,6 @@ Gemini 4 Hydrogen (high): 1 min 48 s, $0.20
 Grok 4.7 (high): 20 min 14 s, $0.72
 
 Hydrogen was 11x faster at under a third of the price.
-
-Which one would you ship?
-```
-
-### Snowy village under northern lights webpage comparison
-
-[@aapakari](https://x.com/aapakari/status/2124820503236051363) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2124820503236051363/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2124820503236051363?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
-
-```text
-One prompt, two models: "a snowy village under the northern lights", as one web page.
-
-Gemini 4 Hydrogen (high): 1 min 24 s, $0.17
-Iceman (default setting): 3 min 18 s, no public price yet
-
-Iceman is the model on OpenCode that no lab has claimed yet.
 
 Which one would you ship?
 ```
@@ -900,4 +889,43 @@ Bottom: Neon
 So the only difference is on screen.
 
 Watch both loops and tell me: where did Neon's extra 7 cents go, because I cannot see it.
+```
+
+### Campfire in pine forest webpage model comparison
+
+[@aapakari](https://x.com/aapakari/status/2125914972915900424) · [Watch](https://www.sandbase.ai/lab/media/x/minimax-m3-1-flash/2125914972915900424/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2125914972915900424?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+One prompt, two models: "a campfire in a pine forest at night", as one web page.
+
+Gemini 4 Hydrogen (high): 1 min 21 s, $0.17
+MiniMax M3.1 Flash (default setting): 1 min 01 s, $0.014
+
+MiniMax was faster and over 12x cheaper.
+
+Which one would you ship?
+```
+
+### Three.js ocean suspension bridge model comparison
+
+[@sergeo_n](https://x.com/sergeo_n/status/2125963571548828025) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125963571548828025/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2125963571548828025?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+Gemini 4 Hydrogen vs Gemini 4 Neon, round 2
+
+Same prompt, Three.js only, no skills:
+a cinematic 3D suspension bridge over an ocean strait,
+30 seconds, sunset into night, live traffic, moving water.
+
+Top: Neon, 13 minutes
+Bottom: Hydrogen, 11 minutes
+
+Hydrogen was faster.
+And its water actually looks and moves like water.
+Could it be the harnes?
+
+Round 1 was a 7 cent draw.
+Round 2 is not close.
+
+Watch the ocean in both, then tell me: is Neon losing its edge, or did Hydrogen just get lucky with this prompt?
 ```
