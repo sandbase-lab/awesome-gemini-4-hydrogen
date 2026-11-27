@@ -2,7 +2,7 @@
 
 English · [简体中文](zh-CN/prompts.md) · [← Back to the collection](../README.md)
 
-49 Gemini 4 Hydrogen videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Gemini 4 Hydrogen on SandBase Lab. New to prompting Gemini 4 Hydrogen? Start with the [prompt guide](prompt-guide.md).
+50 Gemini 4 Hydrogen videos whose creators shared the prompt. Open one to read the prompt, watch the video and **Recreate** it with Gemini 4 Hydrogen on SandBase Lab. New to prompting Gemini 4 Hydrogen? Start with the [prompt guide](prompt-guide.md).
 
 Each entry quotes the creator's post as published on X, where the prompt is shared. Some creators describe the task rather than pasting the whole prompt, and some put the full text in a reply: open the post on X to read the thread. Posts keep the creator's language.
 
@@ -10,7 +10,7 @@ Each entry quotes the creator's post as published on X, where the prompt is shar
 - [Motion graphics](#motion-graphics) (6)
 - [Product UI](#ui-demo) (1)
 - [Explainers](#explainer) (1)
-- [Tests & comparisons](#comparison) (29)
+- [Tests & comparisons](#comparison) (30)
 
 <a id="3d-scene"></a>
 
@@ -928,4 +928,41 @@ Round 1 was a 7 cent draw.
 Round 2 is not close.
 
 Watch the ocean in both, then tell me: is Neon losing its edge, or did Hydrogen just get lucky with this prompt?
+```
+
+### Camera passing through glass in a snow globe
+
+[@SKYEVAL_AI](https://x.com/SKYEVAL_AI/status/2126182622577774853) · [Watch](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126182622577774853/video.mp4) · [Recreate on SandBase Lab](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2126182622577774853?utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+The Ultimate AI Video Challenge: Passing the camera THROUGH glass. ❄️
+ 
+Gemini 4 Carbon VS Gemini 4 Hydrogen VS Gemini 4 Neon
+ 
+Same prompt: Orbit a snow globe beside a warm fire, then push the camera through the glass into the winter scene inside.
+ 
+Here is how they handled the physics:
+ 
+Gemini 4 Neon (Winner):
+
+• The Win: The only model that actually attempted the camera transition. Gorgeous low poly 3D world with fantastic atmospheric lighting.
+
+• The Catch: It slightly clips the geometry during the transition, but it's the most visually coherent attempt overall.
+ 
+Gemini 4 Carbon:
+
+• The Fail: The glass reflection causes extreme overexposure and glare, washing out all structural details. It also skips the transition, jumping straight inside.
+ 
+Gemini 4 Hydrogen:
+
+• The Fail: Ignored the complex lighting requirements (glass refraction/warm firelight), resulting in a flat, low detail render. Like Carbon, it also hard cuts straight inside, skipping the glass-piercing shot.
+ 
+The Verdict:
+Prompting for complex spatial transitions is still a huge blind spot. Carbon and Hydrogen opted for a hard cut to avoid rendering the glass, while Neon was the only one brave enough to animate the push through.
+ 
+Watch the 15s side by side video below to see exactly when they break. 👇
+ 
+Which model's approach do you prefer?
+ 
+#Gemini #AIVideo #GenerativeAI #TechBenchmark #AI
 ```

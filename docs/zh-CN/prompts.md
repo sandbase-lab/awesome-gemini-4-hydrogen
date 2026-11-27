@@ -2,7 +2,7 @@
 
 [English](../prompts.md) · 简体中文 · [← 返回合集](../../README.zh-CN.md)
 
-共 49 条 Gemini 4 Hydrogen 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Gemini 4 Hydrogen 一键 **复刻**。第一次写 Gemini 4 Hydrogen 提示词？先看 [提示词写法](prompt-guide.md)。
+共 50 条 Gemini 4 Hydrogen 视频，作者公开了提示词。打开即可查看提示词、观看视频，并在 SandBase Lab 上用 Gemini 4 Hydrogen 一键 **复刻**。第一次写 Gemini 4 Hydrogen 提示词？先看 [提示词写法](prompt-guide.md)。
 
 每条都按 X 上发布的原文引用作者帖子。有的作者描述的是任务而不是完整提示词，有的把全文放在回复里，请打开 X 原帖查看讨论串。帖子原文保留作者语言。
 
@@ -10,7 +10,7 @@
 - [动效](#motion-graphics) (6)
 - [产品界面](#ui-demo) (1)
 - [讲解](#explainer) (1)
-- [测试对比](#comparison) (29)
+- [测试对比](#comparison) (30)
 
 <a id="3d-scene"></a>
 
@@ -928,4 +928,41 @@ Round 1 was a 7 cent draw.
 Round 2 is not close.
 
 Watch the ocean in both, then tell me: is Neon losing its edge, or did Hydrogen just get lucky with this prompt?
+```
+
+### 镜头穿透雪花玻璃球的模型效果对比
+
+[@SKYEVAL_AI](https://x.com/SKYEVAL_AI/status/2126182622577774853) · [观看](https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126182622577774853/video.mp4) · [在 SandBase Lab 复刻](https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2126182622577774853?lang=zh-CN&utm_source=github&utm_medium=docs&utm_campaign=awesome-gemini-4-hydrogen&utm_content=prompt-index)
+
+```text
+The Ultimate AI Video Challenge: Passing the camera THROUGH glass. ❄️
+ 
+Gemini 4 Carbon VS Gemini 4 Hydrogen VS Gemini 4 Neon
+ 
+Same prompt: Orbit a snow globe beside a warm fire, then push the camera through the glass into the winter scene inside.
+ 
+Here is how they handled the physics:
+ 
+Gemini 4 Neon (Winner):
+
+• The Win: The only model that actually attempted the camera transition. Gorgeous low poly 3D world with fantastic atmospheric lighting.
+
+• The Catch: It slightly clips the geometry during the transition, but it's the most visually coherent attempt overall.
+ 
+Gemini 4 Carbon:
+
+• The Fail: The glass reflection causes extreme overexposure and glare, washing out all structural details. It also skips the transition, jumping straight inside.
+ 
+Gemini 4 Hydrogen:
+
+• The Fail: Ignored the complex lighting requirements (glass refraction/warm firelight), resulting in a flat, low detail render. Like Carbon, it also hard cuts straight inside, skipping the glass-piercing shot.
+ 
+The Verdict:
+Prompting for complex spatial transitions is still a huge blind spot. Carbon and Hydrogen opted for a hard cut to avoid rendering the glass, while Neon was the only one brave enough to animate the push through.
+ 
+Watch the 15s side by side video below to see exactly when they break. 👇
+ 
+Which model's approach do you prefer?
+ 
+#Gemini #AIVideo #GenerativeAI #TechBenchmark #AI
 ```

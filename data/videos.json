@@ -3828,24 +3828,6 @@
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2125918679196107086"
  },
  {
-  "id": "2125923291399704698",
-  "title": "Three models generating a 3D Red Square cathedral",
-  "title_zh": "三款模型生成3D红场大教堂对比",
-  "category": "comparison",
-  "author": {
-   "handle": "srikanthvaluri",
-   "name": "Sree"
-  },
-  "postUrl": "https://x.com/srikanthvaluri/status/2125923291399704698",
-  "createdAt": "2026-11-26T12:03:05.000Z",
-  "durationMs": null,
-  "mp4": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125923291399704698/video.mp4",
-  "promptShared": false,
-  "featured": null,
-  "poster": "https://www.sandbase.ai/lab/media/x/gpt-6-2-sol/2125923291399704698/poster.jpg",
-  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2125923291399704698"
- },
- {
   "id": "2125963571548828025",
   "title": "Three.js ocean suspension bridge model comparison",
   "title_zh": "Three.js海洋悬索桥模型对比",
@@ -3881,5 +3863,132 @@
   "featured": null,
   "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2125988647014912029/poster.jpg",
   "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2125988647014912029"
+ },
+ {
+  "id": "2126063337452831153",
+  "title": "Slow-motion 3D voxel skeleton shattering comparison",
+  "title_zh": "慢动作3D体素骷髅粉碎效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "SerikaOnoe61787",
+   "name": "Serika Onoe"
+  },
+  "postUrl": "https://x.com/SerikaOnoe61787/status/2126063337452831153",
+  "createdAt": "2026-11-26T21:19:34.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2126063337452831153/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2126063337452831153/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2126063337452831153"
+ },
+ {
+  "id": "2126182622577774853",
+  "title": "Camera passing through glass in a snow globe",
+  "title_zh": "镜头穿透雪花玻璃球的模型效果对比",
+  "category": "comparison",
+  "author": {
+   "handle": "SKYEVAL_AI",
+   "name": "SKYEVAL"
+  },
+  "postUrl": "https://x.com/SKYEVAL_AI/status/2126182622577774853",
+  "createdAt": "2026-11-27T05:13:34.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126182622577774853/video.mp4",
+  "promptShared": true,
+  "promptText": "The Ultimate AI Video Challenge: Passing the camera THROUGH glass. ❄️\n \nGemini 4 Carbon VS Gemini 4 Hydrogen VS Gemini 4 Neon\n \nSame prompt: Orbit a snow globe beside a warm fire, then push the camera through the glass into the winter scene inside.\n \nHere is how they handled the physics:\n \nGemini 4 Neon (Winner):\n\n• The Win: The only model that actually attempted the camera transition. Gorgeous low poly 3D world with fantastic atmospheric lighting.\n\n• The Catch: It slightly clips the geometry during the transition, but it's the most visually coherent attempt overall.\n \nGemini 4 Carbon:\n\n• The Fail: The glass reflection causes extreme overexposure and glare, washing out all structural details. It also skips the transition, jumping straight inside.\n \nGemini 4 Hydrogen:\n\n• The Fail: Ignored the complex lighting requirements (glass refraction/warm firelight), resulting in a flat, low detail render. Like Carbon, it also hard cuts straight inside, skipping the glass-piercing shot.\n \nThe Verdict:\nPrompting for complex spatial transitions is still a huge blind spot. Carbon and Hydrogen opted for a hard cut to avoid rendering the glass, while Neon was the only one brave enough to animate the push through.\n \nWatch the 15s side by side video below to see exactly when they break. 👇\n \nWhich model's approach do you prefer?\n \n#Gemini #AIVideo #GenerativeAI #TechBenchmark #AI",
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126182622577774853/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2126182622577774853"
+ },
+ {
+  "id": "2126269810082206037",
+  "title": "Automatic robot arm calibration and exploration",
+  "title_zh": "机械臂自主校准与运动探索",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "seeedstudio",
+   "name": "Seeed Studio"
+  },
+  "postUrl": "https://x.com/seeedstudio/status/2126269810082206037",
+  "createdAt": "2026-11-27T11:00:01.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2126269810082206037/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2126269810082206037/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2126269810082206037"
+ },
+ {
+  "id": "2126291966312984815",
+  "title": "Interactive 3D teardown car showroom in Three.js",
+  "title_zh": "Three.js 交互式汽车结构拆解展厅",
+  "category": "3d-scene",
+  "author": {
+   "handle": "adityawaslost",
+   "name": "Aditya"
+  },
+  "postUrl": "https://x.com/adityawaslost/status/2126291966312984815",
+  "createdAt": "2026-11-27T12:28:04.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126291966312984815/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-carbon/2126291966312984815/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2126291966312984815"
+ },
+ {
+  "id": "2126294695173349498",
+  "title": "Comparison of 3D mechanical ants across models",
+  "title_zh": "多款模型生成的3D机械蚂蚁对比",
+  "category": "comparison",
+  "author": {
+   "handle": "srikanthvaluri",
+   "name": "Sree"
+  },
+  "postUrl": "https://x.com/srikanthvaluri/status/2126294695173349498",
+  "createdAt": "2026-11-27T12:38:54.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2126294695173349498/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2126294695173349498/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2126294695173349498"
+ },
+ {
+  "id": "2126348879616700859",
+  "title": "Animated explanations of twelve physics concepts",
+  "title_zh": "十二个物理学概念动画解析",
+  "category": "explainer",
+  "author": {
+   "handle": "prayag_sonar",
+   "name": "prayag sonar"
+  },
+  "postUrl": "https://x.com/prayag_sonar/status/2126348879616700859",
+  "createdAt": "2026-11-27T16:14:13.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2126348879616700859/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2126348879616700859/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2126348879616700859"
+ },
+ {
+  "id": "2126391358642606302",
+  "title": "Motion video recreated from reference assets",
+  "title_zh": "基于参考视频生成的动态视觉短片",
+  "category": "motion-graphics",
+  "author": {
+   "handle": "JuzerSaifyMando",
+   "name": "Juzer Saify"
+  },
+  "postUrl": "https://x.com/JuzerSaifyMando/status/2126391358642606302",
+  "createdAt": "2026-11-27T19:03:00.000Z",
+  "durationMs": null,
+  "mp4": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2126391358642606302/video.mp4",
+  "promptShared": false,
+  "featured": null,
+  "poster": "https://www.sandbase.ai/lab/media/x/gemini-4-hydrogen/2126391358642606302/poster.jpg",
+  "labUrl": "https://www.sandbase.ai/lab/ai-videos/gemini-4-hydrogen/2126391358642606302"
  }
 ]
